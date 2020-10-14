@@ -1,3 +1,4 @@
+@echo off
 REM	Authored by:
 REM	James Krolik
 
